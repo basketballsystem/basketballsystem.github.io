@@ -488,14 +488,41 @@ h6,
   text-align: center;
   font-size: 25px;
 }
-#header2-5 .mbr-section-text {
+#header4-1 .mbr-section-lead SPAN {
+  color: #ffffff;
+}
+#msg-box5-t P {
   font-size: 20px;
 }
-#header2-6 .mbr-section-text {
+#msg-box5-u P {
+  font-size: 19px;
+}
+#msg-box5-v P {
   font-size: 20px;
 }
-#header2-7 .mbr-section-text {
-  font-size: 20px;
+#gallery1-q .mbr-gallery-item > div > span {
+  font-size: 16px;
+}
+#msg-box2-l .mbr-section-title {
+  color: #fff;
+  text-align: left;
+}
+#msg-box2-l .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#msg-box2-l .mbr-section-subtitle SPAN {
+  text-align: left;
+  font-size: 22px;
+}
+#msg-box2-o .mbr-section-title {
+  color: #fff;
+  text-align: left;
+}
+#msg-box2-o .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#features6-n FONT {
+  text-align: center;
 }
 #form1-c .form-control-label {
   color: #232323;
