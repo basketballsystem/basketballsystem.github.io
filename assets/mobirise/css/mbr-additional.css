@@ -529,6 +529,10 @@ h6,
 #features6-n FONT {
   text-align: center;
 }
+#header3-16 .mbr-section-title,
+#header3-16 .mbr-section-subtitle {
+  text-align: center;
+}
 #form1-c .form-control-label {
   color: #232323;
 }

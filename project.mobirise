@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 41,
+    "uniqCompNum": 43,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -632,7 +632,7 @@
             "showText": false
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
-          "title": "&nbsp; &nbsp; &nbsp;FEATURES",
+          "title": "&nbsp; &nbsp; FEATURES",
           "text": "Cut down the development time with drag-and-drop website builder."
         },
         {
@@ -756,6 +756,26 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-16",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "團隊成員介紹",
+          "meta": "<p><a href=\"http://\"><iframe height=\"600px\" width=\"100%\" style=\"border:none;\" src=\"https://view-awesome-table.com/-Km0oM_0WqciZ24BGIb1/view\"></iframe></a></p>"
         },
         {
           "_tags": [
