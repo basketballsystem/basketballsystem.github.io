@@ -496,9 +496,11 @@ h6,
   color: #ffffff;
   font-family: 'Montserrat', sans-serif;
 }
-#msg-box1-18 H3 {
-  text-align: right;
-  color: #ffffff;
+#msg-box2-1a .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-1a .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #msg-box5-t P {
   font-size: 20px;
