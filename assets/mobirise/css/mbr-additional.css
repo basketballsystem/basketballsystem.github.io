@@ -5,6 +5,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -490,6 +491,10 @@ h6,
 }
 #header4-1 .mbr-section-lead SPAN {
   color: #ffffff;
+}
+#slider-11 FONT {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
 }
 #msg-box5-t P {
   font-size: 20px;
